@@ -2,7 +2,7 @@
 
 - 🗺️ I’m live in Brazil, northeast 🌇
 - 🔭 I’m currently web development student at Trybe 🚀
-- ⚡  I’m currently learning JavaScript 
+- ⚡  I’m currently learning React 
 
 
 ## GitHub status
