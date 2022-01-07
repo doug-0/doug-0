@@ -1,16 +1,74 @@
-## Hi there! 👋
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Douglas Oliveira</h1>
 
-- 🗺️ I’m live in Brazil, northeast 🌇
-- 🔭 I’m currently web development student at Trybe 🚀
-- ⚡  I’m currently learning React 
+  #### Estou em busca de me tornando um desenvolvedor web full stack. Diariamente desenvolvendo meus conhecimentos para ser um profissional melhor e atingir meus objetivos.
+
+- 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+- 🇧🇷 Atualmente moro em Campina Grande/PB, Brasil 
+- 🔭 Sempre buscando conhecimento!
+
+### ⚡ Habilidades que possuo:
+
+<br />
+
+<span>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+</span>
+</span>
+<span>
+  <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+</span>
+
+<br />
+
+### 🌱 Atualmente estou estudando sobre...
+
+<br/>
 
 
-## GitHub status
+<span>
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
+</span>
+<span>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+</span>
+<span>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" />
+</span>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&custom_title=⤵&hide_border=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Doug77/github-readme-stats&)
 
+<br>
 
+## **Você pode me encontrar aqui!**
 
+* 📧 E-mail: douglasgama0@gmail.com
+* 📝 Meu <a href="https://www.linkedin.com/in/douglas-d-oliveira/" target="_blank">LinkedIn</a>.
 
-  
+## **GitHub Analytics**
+
+<span>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&custom_title=Stats ⤵&hide_border=true" />
+
+</span>
+
+<span>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=default&theme=github_dark&hide_border=true" />
+
+</span>
+
