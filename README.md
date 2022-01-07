@@ -50,14 +50,6 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 </span>
 
-
-<br>
-
-## **Você pode me encontrar aqui!**
-
-* 📧 E-mail: douglasgama0@gmail.com
-* 📝 Meu <a href="https://www.linkedin.com/in/douglas-d-oliveira/" target="_blank">LinkedIn</a>.
-
 ## **GitHub Analytics**
 
 <span>
@@ -71,4 +63,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=default&theme=github_dark&hide_border=true" />
 
 </span>
+
+<br>
+
+## **Você pode me encontrar aqui!**
+
+* 📧 E-mail: douglasgama0@gmail.com
+* 📝 Meu <a href="https://www.linkedin.com/in/douglas-d-oliveira/" target="_blank">LinkedIn</a>.
+
+
 
