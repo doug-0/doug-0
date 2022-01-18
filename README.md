@@ -45,9 +45,6 @@
 <span>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
 </span>
-<span>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-</span>
 
 ## **GitHub Analytics**
 
