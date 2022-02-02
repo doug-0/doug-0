@@ -6,7 +6,7 @@
 - 🇧🇷 Atualmente moro em Campina Grande/PB, Brasil 
 - 🔭 Sempre buscando conhecimento!
 
-### ⚡ Habilidades que possuo:
+### ⚡ Tecnologias e Ferramentas:
 
 <br />
 
