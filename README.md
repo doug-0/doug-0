@@ -72,6 +72,3 @@
 
 * 📧 E-mail: douglasgama0@gmail.com
 * 📝 Meu <a href="https://www.linkedin.com/in/douglas-d-oliveira/" target="_blank">LinkedIn</a>.
-
-
-
