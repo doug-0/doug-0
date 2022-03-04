@@ -55,9 +55,7 @@
 ## **GitHub Analytics**
 
 <span>
-
   <img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&custom_title=Stats ⤵&hide_border=true" />
-
 </span>
 
 <span>
