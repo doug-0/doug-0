@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
 </span>
 <span>
-  <img src="https://img.icons8.com/color/60/mysql-logo.png" width="40px"/>
+  <img src="https://img.icons8.com/color/60/mysql-logo.png" />
 </span>
 
 ## **GitHub Analytics**
