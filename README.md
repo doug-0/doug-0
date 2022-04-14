@@ -51,6 +51,13 @@
 <span>
   <img src="https://img.icons8.com/color/60/mysql-logo.png" />
 </span>
+<span>
+  <img src="https://docs.sequelizejs.com/img/logo.svg" width="45px"/>
+</span>
+<span>
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="90px"/>
+</span>
+
 
 ## **GitHub Analytics**
 
