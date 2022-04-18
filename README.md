@@ -29,13 +29,6 @@
 <span>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </span>
-
-<br />
-
-### 🌱 Atualmente estou estudando sobre...
-
-<br/>
-
 <span>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 </span>
