@@ -52,7 +52,7 @@
   <img src="https://img.icons8.com/color/60/mysql-logo.png" />
 </span>
 <span>
-  <img src="https://docs.sequelizejs.com/img/logo.svg" width="45px"/>
+  <img src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" width="45px"/>
 </span>
 <span>
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="90px"/>
