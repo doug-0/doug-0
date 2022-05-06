@@ -10,6 +10,7 @@
 
 <br />
 
+<p align="left">
 <span>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </span>
@@ -35,9 +36,6 @@
 <span>
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" />
 </span>
-<!-- <span>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" />
-</span> -->
 <span>
   <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
 </span>
@@ -50,6 +48,9 @@
 <span>
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="90px"/>
 </span>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
 
 
 ## **GitHub Analytics**
@@ -63,6 +64,7 @@
 </span>
 
 <br>
+
 
 ## **Você pode me encontrar aqui!**
 
