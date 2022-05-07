@@ -6,10 +6,11 @@
 - 🇧🇷 Atualmente moro em Campina Grande/PB, Brasil 
 - 🔭 Sempre buscando conhecimento!
 
-### ⚡ Tecnologias e Ferramentas:
+## ⚡ Tecnologias e Ferramentas:
 
+
+#### Front-end
 <br />
-
 <p align="left">
 <span>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -27,6 +28,11 @@
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 </span>
 </span>
+
+<br />
+
+#### Back-end
+
 <span>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </span>
