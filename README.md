@@ -34,9 +34,6 @@
 #### Back-end
 
 <span>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</span>
-<span>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 </span>
 <span>
@@ -55,8 +52,20 @@
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="90px"/>
 </span>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
+
+#### Ferramentas 
+
+<span>
+<img alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+</span>
+<span>
+<img alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</span>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="50" height="50" alt="Heroku" /></a>
+<span>
+  <img src="https://img.icons8.com/color/56/000000/git.png"/>
+</span>
 
 ## **GitHub Analytics**
 
