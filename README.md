@@ -48,9 +48,9 @@
 <span>
   <img src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" width="45px"/>
 </span>
-<span>
+<!-- <span>
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="90px"/>
-</span>
+</span> -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
