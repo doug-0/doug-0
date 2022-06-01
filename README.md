@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou Douglas Oliveira</h1>
+<h1 align="left">Olá, eu sou Douglas Oliveira</h1>
 
   #### Estou em busca de me tornar um desenvolvedor web full stack. Diariamente desenvolvendo meus conhecimentos para ser um profissional melhor e atingir meus objetivos.
 
