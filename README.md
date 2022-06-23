@@ -8,10 +8,7 @@
 
 ## ⚡ Tecnologias e Ferramentas:
 
-
-#### Front-end
 <br />
-<p align="left">
 <span>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </span>
@@ -28,11 +25,6 @@
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 </span>
 </span>
-
-<br />
-
-#### Back-end
-
 <span>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 </span>
@@ -52,10 +44,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="90px"/>
 </span> -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-</p>
-
-#### Ferramentas 
-
 <span>
 <img alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </span>
@@ -75,7 +63,7 @@
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=default&theme=github_dark&hide_border=true" />
 </span>
-<!-- <a href="http://www.github.com/Doug77"><img src="https://activity-graph.herokuapp.com/graph?username=Doug77&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/Doug77"><img src="https://activity-graph.herokuapp.com/graph?username=Doug77&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br>
 
