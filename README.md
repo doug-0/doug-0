@@ -41,7 +41,7 @@
   <img src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" width="45px"/>
 </span>
 <span>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="90px"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50px"/>
 </span>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <span>
