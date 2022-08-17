@@ -64,7 +64,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=default&theme=github_dark&hide_border=true" />
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&custom_title=Stats ⤵&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&hide_border=true" />
 </span>
 
 <br>
