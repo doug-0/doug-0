@@ -57,13 +57,15 @@
 
 ## **GitHub Analytics**
 
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&custom_title=Stats ⤵&hide_border=true" />
-</span>
+<a href="http://www.github.com/Doug77"><img src="https://activity-graph.herokuapp.com/graph?username=Doug77&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=default&theme=github_dark&hide_border=true" />
 </span>
-<a href="http://www.github.com/Doug77"><img src="https://activity-graph.herokuapp.com/graph?username=Doug77&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&custom_title=Stats ⤵&hide_border=true" />
+</span>
 
 <br>
 
