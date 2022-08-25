@@ -69,4 +69,5 @@
 ## **Você pode me encontrar aqui!**
 
 * 📧 E-mail: douglasgama0@gmail.com
-* 📝 Meu <a href="https://doug77.github.io/douglas/#/" target="_blank">Portfólio</a>.
+* 📝 Meu <a href="https://www.linkedin.com/in/douglas-d-oliveira/" target="_blank">LinkedIn</a>.
+* 👨🏽‍💻 Meu <a href="https://doug77.github.io/douglas/#/" target="_blank">Portfólio</a>.
