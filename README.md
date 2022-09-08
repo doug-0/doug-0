@@ -58,10 +58,10 @@
 ## **GitHub Analytics**
 
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug77&layout=default&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-0&layout=default&theme=github_dark&hide_border=true" />
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=Doug77&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=doug-0&show_icons=true&theme=github_dark&hide_border=true" />
 </span>
 
 <br>
@@ -70,4 +70,4 @@
 
 * 📧 E-mail: douglasgama0@gmail.com
 * 📝 Meu <a href="https://www.linkedin.com/in/douglas-d-oliveira/" target="_blank">LinkedIn</a>.
-* 👨🏽‍💻 Meu <a href="https://doug77.github.io/douglas/#/" target="_blank">Portfólio</a>.
+* 👨🏽‍💻 Meu <a href="https://doug-0.github.io/douglas/#/" target="_blank">Portfólio</a>.
