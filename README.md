@@ -49,9 +49,6 @@
 <img alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </span>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="50" height="50" alt="Heroku" /></a>
-<span>
-  <img src="https://img.icons8.com/color/56/000000/git.png"/>
-</span>
 
 ## **GitHub Analytics**
 
