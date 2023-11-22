@@ -50,15 +50,6 @@
 </span>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="50" height="50" alt="Heroku" /></a>
 
-## **GitHub Analytics**
-
-<span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-0&layout=default&theme=github_dark&hide_border=true" />
-</span>
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=doug-0&show_icons=true&theme=github_dark&hide_border=true" />
-</span>
-
 <br>
 
 ## **Você pode me encontrar aqui!**
