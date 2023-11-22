@@ -39,6 +39,12 @@
   <img src="https://sequelize.org/img/logo.svg" width="45px"/>
 </span>
 <span>
+  <img src="https://laravel.com/img/logomark.min.svg" width="45px"/>
+</span>
+<span>
+  <img src="https://img.icons8.com/nolan/64/php--v2.png" width="45px"/>
+</span>
+<span>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50px"/>
 </span>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
