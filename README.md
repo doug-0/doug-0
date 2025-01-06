@@ -32,7 +32,6 @@
 <span>
   <img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
 </span>
-<br>
 <span>
   <img src="https://img.icons8.com/color/60/mysql-logo.png" />
 </span>
